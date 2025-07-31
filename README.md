@@ -44,13 +44,6 @@ npm start
 node server.js
 ```
 
-### Variables d'Environnement
-```env
-PORT=3000
-JWT_SECRET=your_jwt_secret_key
-DATABASE_URL=your_database_connection_string
-```
-
 ## 📚 Documentation des Endpoints
 
 ### 📋 Vue d'Ensemble des Routes
