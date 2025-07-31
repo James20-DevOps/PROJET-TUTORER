@@ -262,10 +262,10 @@ PROJET TUTORER/
 
 ## 👥 Équipe de Développement
 
-- **Développeur(s)** : [Vos noms]
-- **Encadrant** : [Nom du professeur/tuteur]
+- **Développeur(s)** : HOMIMA EDMOND, Henoc N'GASAMA, ALIOU NIANE
+- **Encadrant** : Mr TCHAKALLA Fissale
 - **Cours** : Projet Tutoré
-- **Période** : [Année académique]
+- **Période** : 2024-2025
 
 ## 📄 Licence
 
